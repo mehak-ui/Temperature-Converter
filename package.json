@@ -1,0 +1,13 @@
+{
+  "name": "temperature-converter",
+  "version": "1.0.0",
+  "description": "A temperature converter website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": ["temperature", "converter", "celsius", "fahrenheit", "kelvin"],
+  "author": "",
+  "license": "MIT"
+}
